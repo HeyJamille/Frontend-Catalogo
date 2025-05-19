@@ -1,10 +1,10 @@
 ## Catálogo Digital 
-- Servidor para conexão com o frontend do catálogo digital
+- Catálogo digital criado para você explorar as melhores ofertas, conferir as últimas tendências em roupas e acessórios, e fazer suas compras com facilidade.
 
 ### Tecnologias utilizadas
-- Node.js
-- Express
+- React
+- TailwindCSS
 
 ### Servidor disponível em:
-  
+- frontend-catalogo.vercel.app
 
